@@ -1,1 +1,1 @@
-# Enter your procedural solution here!
+require 'oo_multiples.rb'
